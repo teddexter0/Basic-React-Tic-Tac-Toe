@@ -2,7 +2,7 @@
 A simple React-based Tic Tac Toe game with dynamic win/draw functionality.
 
 ## Features
-- Dynamic turn-based gameplay with X and O images.
+- Dynamic turn-based game play with X and O images.
 - Win/draw detection.
 - Reset functionality to restart the game.
 
