@@ -12,3 +12,7 @@ A simple React-based Tic Tac Toe game with dynamic win/draw functionality.
 3. Install dependencies:
 4. Run the application:
 5. npm start 
+
+## Demo
+
+[Watch the Demo](./assets/React-tic-tac-toe-demo.mp4)
